@@ -54,8 +54,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sa-tv.png",SA TV
 http://fastshare1.com:8080//live/25711345/late8airline/3814.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",News 24 BD
-http://fastshare1.com:8080//live/25711345/late8airline/3810.ts
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",News 24 BD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png",Bangla TV
 https://stream.ottplus.bd/live/bangla_tv_hd_abr/index.m3u8
